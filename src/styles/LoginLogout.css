@@ -1,0 +1,21 @@
+.login > p, .NotLogin > span {
+  font-size: 20px;
+}
+
+.login > button, .NotLogin > button {
+  border-radius: 10px;
+  border: 1px solid rgb(240, 240, 240);
+  padding: 7px 15px;
+  background-color: rgb(180, 180, 255);
+}
+
+.NotLogin > span {
+  margin-right: 10px;
+}
+.NotLogin > input {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(240, 240, 240);
+  margin-bottom: 10px;
+}/*# sourceMappingURL=LoginLogout.css.map */
